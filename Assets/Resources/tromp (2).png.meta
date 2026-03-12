@@ -1,0 +1,1035 @@
+fileFormatVersion: 2
+guid: 2f6d5e9946b1e6f40b1b5af338442e6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 663035813373540686
+    second: tromp (2)_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tromp (2)_0
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 1349
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4021d298080544eb5df9ba4167d40d
+      internalID: 414031413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1352
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67ea4ddb87f3c3a4dbad1d35cbf8d8fd
+      internalID: -1041190421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_2
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1352
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f2fa63cde17a9499ad9e53d98d817f
+      internalID: -663710693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_3
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1352
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a60fad1c6a67e841945118816859fcd
+      internalID: 1387773960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_4
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1352
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25745483c46b0e448ae1d51d51baf5dd
+      internalID: 161310939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_5
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1352
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7a026554447fe44811ffee4886f4a9
+      internalID: -2111767405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_6
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1352
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5047804eeed06e342b4eaaf4392eff9d
+      internalID: 641238286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_7
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1352
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540e96fcd259f13478b2620c8cb4c2c3
+      internalID: 1170670903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_8
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1352
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8f37a0d4eb2df4aa0d4d14c9c96b5e
+      internalID: -1978641693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_12
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1349
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8859820f8fb25204d8befcec1cc5509f
+      internalID: 466740216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_13
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 986
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a2aab7be6c0ab43afc891435db2bd5
+      internalID: -696734606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 989
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb16e68952f4a04fbde658a6c39d1f3
+      internalID: 1405100507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_15
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 989
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e4d006e7f940942903d317e7591d4f
+      internalID: -1710750771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_16
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 990
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20786b8d33170dd41bf419b018ede54a
+      internalID: 772578901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_17
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 990
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef4f36fd51b62c4eb4bf71aaabec4e6
+      internalID: -905404402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_18
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 990
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c90df5c6d537440b9bb9cab7ad8a45
+      internalID: 1017434374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_19
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 990
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bb49dc2775a05489ddf1535d807253
+      internalID: -641143632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_20
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 990
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48945f2a9aef264fb6974376de072ae
+      internalID: 313291853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_21
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 990
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc26c6163fc54b42bb61b6f2b01a931
+      internalID: 146079279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_25
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 987
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b415ab0194595784fa1df933c921fb9f
+      internalID: 514706033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_26
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 625
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a9472f4e9811245b128275980cb8da
+      internalID: -152897520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcce0043eeb4a34bb400450ddfa63b4
+      internalID: 1604727438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_28
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 625
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1564b880f5eaa64c8167cedd96efe82
+      internalID: -1344507049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_29
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 625
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6071ef58eacc5c488c5d3ca0d4149c9
+      internalID: -198822197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_30
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 625
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4868606ccdafd44ae8bdd7b382073c
+      internalID: -1020084520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_31
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 626
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b2902ffed4466499c94bdc84b43b0c
+      internalID: 770541060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_32
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 625
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2099ee52594d4974dab0d060f89220b3
+      internalID: -704664295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_33
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 625
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197faeb8d4f6a6149ab919cef654ec26
+      internalID: -122114230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_34
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 626
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81509621b258c3e4685166dc7fed4ec9
+      internalID: 323103818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_38
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 625
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada1158938813b846943df0c7bf919bd
+      internalID: -12487688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_39
+      rect:
+        serializedVersion: 2
+        x: 3101
+        y: 262
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdf73f9aa7a40f44ad275063f0cc61d
+      internalID: 1691373325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aa4fbc447ff854aa78d90397d779a1
+      internalID: 339073432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_41
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 262
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da4c37942c53ff4cb8db2974822e0df
+      internalID: 554563585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_42
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 262
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63dba9b05c79e0469671dcb91b058a6
+      internalID: 1522657518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_43
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 262
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec95950c46df8d84d88dcde59234d584
+      internalID: -1485581166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_44
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 262
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ee5c077fee9ef4fbb9566b9a791cbd
+      internalID: -307552130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_45
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 262
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c201b181ff6804dbbd45ca2243eeb9
+      internalID: 2086796394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_46
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 262
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c518791b9f6bd74daf9e36b8bf2aefb
+      internalID: -1695677554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_47
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 262
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f5130d4366a774f85f7fe3fd60cb95
+      internalID: -1936958537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tromp (2)_51
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 262
+        width: 240
+        height: 340
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38f28dd7cda05f44998b008e0a7409d
+      internalID: -459770351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 781e9ba010a0a1f46a2257eb1fe65068
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      tromp (2)_0: 414031413
+      tromp (2)_1: -1041190421
+      tromp (2)_10: -2108843700
+      tromp (2)_11: -521987220
+      tromp (2)_12: 466740216
+      tromp (2)_13: -696734606
+      tromp (2)_14: 1405100507
+      tromp (2)_15: -1710750771
+      tromp (2)_16: 772578901
+      tromp (2)_17: -905404402
+      tromp (2)_18: 1017434374
+      tromp (2)_19: -641143632
+      tromp (2)_2: -663710693
+      tromp (2)_20: 313291853
+      tromp (2)_21: 146079279
+      tromp (2)_22: 1537695154
+      tromp (2)_23: 1127305449
+      tromp (2)_24: 160625925
+      tromp (2)_25: 514706033
+      tromp (2)_26: -152897520
+      tromp (2)_27: 1604727438
+      tromp (2)_28: -1344507049
+      tromp (2)_29: -198822197
+      tromp (2)_3: 1387773960
+      tromp (2)_30: -1020084520
+      tromp (2)_31: 770541060
+      tromp (2)_32: -704664295
+      tromp (2)_33: -122114230
+      tromp (2)_34: 323103818
+      tromp (2)_35: 694837730
+      tromp (2)_36: -1523147569
+      tromp (2)_37: 1181556739
+      tromp (2)_38: -12487688
+      tromp (2)_39: 1691373325
+      tromp (2)_4: 161310939
+      tromp (2)_40: 339073432
+      tromp (2)_41: 554563585
+      tromp (2)_42: 1522657518
+      tromp (2)_43: -1485581166
+      tromp (2)_44: -307552130
+      tromp (2)_45: 2086796394
+      tromp (2)_46: -1695677554
+      tromp (2)_47: -1936958537
+      tromp (2)_48: -1921584229
+      tromp (2)_49: -1972755554
+      tromp (2)_5: -2111767405
+      tromp (2)_50: -1241785345
+      tromp (2)_51: -459770351
+      tromp (2)_6: 641238286
+      tromp (2)_7: 1170670903
+      tromp (2)_8: -1978641693
+      tromp (2)_9: 1236832571
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
